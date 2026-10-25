@@ -4,6 +4,7 @@ Also if you don't have all of the sequences, it will just say NONE where it's mi
 If it sees that the padding byte results to the same value from at least 2 sequences, it creates the whole kennung array directly.
 
 Example:
+
 7D 71 00 00 00 00 80 00
 
 72 73 00 00 00 00 80 00
