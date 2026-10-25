@@ -6,6 +6,7 @@ If it sees that the padding byte results to the same value from at least 2 seque
 Example:
 
 7D 71 00 00 00 00 80 00
+
 72 73 00 00 00 00 80 00
 
 It sees the skips. Also, when pasting in the terminal, there have to be maximum 8 bytes on 1 row, then the next 8 on the next row and so on.
